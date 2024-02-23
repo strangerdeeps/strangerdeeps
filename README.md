@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Bansal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="hacking" width="550" src="https://techviral.tech/wp-content/uploads/2021/04/java-hacking-gif.gif">
+<img align="right" alt="hacking" width="400" src="https://techviral.tech/wp-content/uploads/2021/04/java-hacking-gif.gif">
 
 - 🔭 I’m currently working on Project 1 [10 Powerful Hacking GitHub Tools Collections by Mr.LUCIFER](https://codepen.io/strangerdeeps/pen/yLGGBRe)
 
