@@ -1,3 +1,4 @@
+![logo](https://github.com/strangerdeeps/strangerdeeps/blob/main/Blue%20and%20White%20Illustrative%20Modern%20Science%20and%20Technology%20Education%20Video.gif.crdownload)
 <h1 align="center">Hi 👋, I'm Deepak Bansal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
